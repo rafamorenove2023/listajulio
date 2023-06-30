@@ -1,0 +1,465 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 FHD (LAT)" tvg-logo="" group-title="Internacionales",Antena 3 FHD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/312804
+#EXTINF:-1 tvg-id="CL - Discovery Channel" tvg-name="Discovery Channel SD (CL*)" tvg-logo="https://img.tvcl.xyz/usa/discovery.png" group-title="Culturales",Discovery Channel SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313129
+#EXTINF:-1 tvg-id="CL - Discovery Channel" tvg-name="Discovery Channel FHD (CL*)" tvg-logo="https://img.tvcl.xyz/usa/discovery.png" group-title="Culturales",Discovery Channel FHD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313142
+#EXTINF:-1 tvg-id="CO - Discovery HD" tvg-name="Discovery Channel SD (LAT)" tvg-logo="https://img.tvcl.xyz/culturales/discovery.png" group-title="Culturales",Discovery Channel SD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34808
+#EXTINF:-1 tvg-id="CO - Discovery HD" tvg-name="Discovery Channel FHD (LAT)" tvg-logo="https://img.tvcl.xyz/culturales/discovery.png" group-title="Culturales",Discovery Channel FHD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34810
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery Channel HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/culturales/discovery.png" group-title="Culturales",Discovery Channel HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302627
+#EXTINF:-1 tvg-id="CO - Discovery HD" tvg-name="Discovery Channel FHD (CO) (E)" tvg-logo="https://img.tvcl.xyz/culturales/discovery.png" group-title="Culturales",Discovery Channel FHD (CO) (E)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/35204
+#EXTINF:-1 tvg-id="CL - Nickelodeon" tvg-name="Nickelodeon FHD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles",Nickelodeon FHD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313153
+#EXTINF:-1 tvg-id="MX - Nick" tvg-name="Nickelodeon HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/brasil/nick.png" group-title="Infantiles",Nickelodeon HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302710
+#EXTINF:-1 tvg-id="CO - Nick" tvg-name="Nickelodeon SD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles",Nickelodeon SD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34770
+#EXTINF:-1 tvg-id="CO - Nick" tvg-name="Nickelodeon FHD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles",Nickelodeon FHD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34772
+#EXTINF:-1 tvg-id="CL - Nick Jr." tvg-name="Nick JR SD (CL*)" tvg-logo="https://img.tvcl.xyz/brasil/nickjr.png" group-title="Infantiles",Nick JR SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313155
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Nick JR HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="Infantiles",Nick JR HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302712
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia SD (CL*)" tvg-logo="https://img.tvcl.xyz/entretencion/dc.png" group-title="Entretención",Distrito Comedia SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313178
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Distrito Comedia HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/dc.png" group-title="Entretención",Distrito Comedia HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302634
+#EXTINF:-1 tvg-id="CL - Universal Channel" tvg-name="Universal Channel SD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/studiouniversal.png" group-title="Películas y Series",Universal Channel SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313068
+#EXTINF:-1 tvg-id="CO - Universal TV" tvg-name="Universal Channel SD (CO.) (E)" tvg-logo="" group-title="Películas y Series",Universal Channel SD (CO.) (E)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/35265
+#EXTINF:-1 tvg-id="CO - Universal TV" tvg-name="Universal Channel SD (LAT)" tvg-logo="" group-title="Películas y Series",Universal Channel SD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34956
+#EXTINF:-1 tvg-id="CL - Warner Channel" tvg-name="Warner Channel FHD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Películas y Series",Warner Channel FHD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313050
+#EXTINF:-1 tvg-id="CO - Warner Channel" tvg-name="Warner Channel FHD (LAT)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Películas y Series",Warner Channel FHD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34923
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Warner Channel HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Películas y Series",Warner Channel HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302746
+#EXTINF:-1 tvg-id="CL - Warner Channel" tvg-name="Warner Channel SD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Películas y Series",Warner Channel SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313067
+#EXTINF:-1 tvg-id="CO - Warner Channel" tvg-name="Warner Channel SD (LAT)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Películas y Series",Warner Channel SD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34922
+#EXTINF:-1 tvg-id="CL - TNT" tvg-name="TNT  FHD (CL*)" tvg-logo="" group-title="Películas y Series",TNT  FHD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313047
+#EXTINF:-1 tvg-id="CL - TNT" tvg-name="TNT  SD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tnt.png" group-title="Películas y Series",TNT  SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313063
+#EXTINF:-1 tvg-id="MX - TNT HD" tvg-name="TNT FHD (LAT)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tnt.png" group-title="Películas y Series",TNT FHD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34959
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="TNT HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tnt.png" group-title="Películas y Series",TNT HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302733
+#EXTINF:-1 tvg-id="MX - TNT HD" tvg-name="TNT SD (LAT)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tnt.png" group-title="Películas y Series",TNT SD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34957
+#EXTINF:-1 tvg-id="CL - TNT Series" tvg-name="TNT Series  FHD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Películas y Series",TNT Series  FHD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313048
+#EXTINF:-1 tvg-id="CL - TNT Series" tvg-name="Tnt Series  SD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Películas y Series",Tnt Series  SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313077
+#EXTINF:-1 tvg-id="CL - Las Estrellas" tvg-name="Las Estrellas FHD (CL*)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención",Las Estrellas FHD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313173
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Las Estrellas -1HRs HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención",Las Estrellas -1HRs HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/304504
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención",Las Estrellas HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302641
+#EXTINF:-1 tvg-id="CL - Lifetime" tvg-name="Lifetime  SD (CL*)" tvg-logo="https://img.tvcl.xyz/entretencion/lifetime.png" group-title="Entretención",Lifetime  SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313102
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/lifetime.png" group-title="Entretención",Lifetime HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302678
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Televen SD (VE)" tvg-logo="https://img.tvcl.xyz/venezuela/televen.png" group-title="Venezuela",Televen SD (VE)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43561
+#EXTINF:-1 tvg-id="ValuTV.us" tvg-name="Vale TV HD (VE)" tvg-logo="https://img.tvcl.xyz/venezuela/valetv.png" group-title="Venezuela",Vale TV HD (VE)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43562
+#EXTINF:-1 tvg-id="" tvg-name="Venevision HD (VE)" tvg-logo="https://img.tvcl.xyz/venezuela/venevision.png" group-title="Venezuela",Venevision HD (VE)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43563
+#EXTINF:-1 tvg-id="AZClic.mx" tvg-name="AZ Clic FHD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/azclic.png" group-title="Mexico",AZ Clic FHD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43599
+#EXTINF:-1 tvg-id="AZClic.mx" tvg-name="AZ Click SD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/azclic.png" group-title="Mexico",AZ Click SD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43600
+#EXTINF:-1 tvg-id="AZCinema.mx" tvg-name="AZ Cinema FHD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/azcinema.png" group-title="Mexico",AZ Cinema FHD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43601
+#EXTINF:-1 tvg-id="MX - Azteca 7" tvg-name="Azteca 7 FHD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/aztecasiete.png" group-title="Mexico",Azteca 7 FHD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43605
+#EXTINF:-1 tvg-id="MX - FOROtv" tvg-name="Foro TV FHD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/forotv.png" group-title="Mexico",Foro TV FHD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43608
+#EXTINF:-1 tvg-id="INGENIO TV" tvg-name="Ingenio TV SD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/ingeniotv.png" group-title="Mexico",Ingenio TV SD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43612
+#EXTINF:-1 tvg-id="MX - adn40" tvg-name="ADN40 FHD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/adn40.png" group-title="Mexico",ADN40 FHD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43619
+#EXTINF:-1 tvg-id="MX - Canal 5" tvg-name="Canal 5 SD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/canal5.png" group-title="Mexico",Canal 5 SD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43626
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Azteca 7 HD (MX VIP)" tvg-logo="" group-title="Mexico",Azteca 7 HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302683
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="AZ Corazon HD (MX VIP)" tvg-logo="" group-title="Mexico",AZ Corazon HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302681
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno HD (MX VIP)" tvg-logo="" group-title="Mexico",Azteca Uno HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302682
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno -1Hrs HD (MX VIP)" tvg-logo="" group-title="Mexico",Azteca Uno -1Hrs HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302685
+#EXTINF:-1 tvg-id="" tvg-name="AZ Cinema HD (MX VIP)" tvg-logo="" group-title="Mexico",AZ Cinema HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302615
+#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo HD (MX VIP)" tvg-logo="" group-title="Mexico",AZ Mundo HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302680
+#EXTINF:-1 tvg-id="CL - HBO" tvg-name="HBO  SD (CL*)" tvg-logo="https://img.tvcl.xyz/ppvcine/hbo.png" group-title="Cine Premium",HBO  SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313095
+#EXTINF:-1 tvg-id="CL - HBO 2" tvg-name="HBO 2  SD (CL*)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="Cine Premium",HBO 2  SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313098
+#EXTINF:-1 tvg-id="CL - HBO 2" tvg-name="HBO 2 FHD (CL*)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="Cine Premium",HBO 2 FHD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313052
+#EXTINF:-1 tvg-id="CO - HBO 2 HD" tvg-name="HBO 2 SD (LAT)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="Cine Premium",HBO 2 SD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34890
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="HBO 2 HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="Cine Premium",HBO 2 HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302665
+#EXTINF:-1 tvg-id="MX - HBO 2" tvg-name="HBO 2 FHD (MX E)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="Cine Premium",HBO 2 FHD (MX E)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/35288
+#EXTINF:-1 tvg-id="CO - HBO 2 HD" tvg-name="HBO 2 FHD (LAT)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="Cine Premium",HBO 2 FHD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34888
+#EXTINF:-1 tvg-id="CL - HBO Family" tvg-name="HBO Family SD (CL*)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbofamily.png" group-title="Cine Premium",HBO Family SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313108
+#EXTINF:-1 tvg-id="CL - HBO Family" tvg-name="HBO Family  FHD (CL*)" tvg-logo="https://img.tvcl.xyz/brasil/hbofamily.png" group-title="Cine Premium",HBO Family  FHD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313051
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD (LAT)*" tvg-logo="https://img.tvcl.xyz/cinepremium/hbofamily.png" group-title="Cine Premium",HBO Family FHD (LAT)*
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/312908
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="HBO Family HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/brasil/hbofamily.png" group-title="Cine Premium",HBO Family HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302667
+#EXTINF:-1 tvg-id="CL - HBO" tvg-name="HBO FHD (CL*)" tvg-logo="https://img.tvcl.xyz/ppvcine/hbo.png" group-title="Cine Premium",HBO FHD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313040
+#EXTINF:-1 tvg-id="CO - HBO HD" tvg-name="HBO FHD (LAT)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbo.png" group-title="Cine Premium",HBO FHD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34883
+#EXTINF:-1 tvg-id="CO - Investigation Discovery HD" tvg-name="Investigation Discovery SD (LAT)" tvg-logo="https://img.tvcl.xyz/culturales/id.png" group-title="Culturales",Investigation Discovery SD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34838
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Investigation Discovery HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/culturales/id.png" group-title="Culturales",Investigation Discovery HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302674
+#EXTINF:-1 tvg-id="CO - Investigation Discovery HD" tvg-name="Investigation Discovery FHD (LAT)" tvg-logo="https://img.tvcl.xyz/culturales/id.png" group-title="Culturales",Investigation Discovery FHD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34840
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature SD (CL*)" tvg-logo="" group-title="Culturales",Love Nature SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313139
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature FHD (CL*)" tvg-logo="" group-title="Culturales",Love Nature FHD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313137
+#EXTINF:-1 tvg-id="CL - National Geographic" tvg-name="National Geographic SD (CL*)" tvg-logo="" group-title="Culturales",National Geographic SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313140
+#EXTINF:-1 tvg-id="CL - National Geographic" tvg-name="National Geographic FHD (CL*)" tvg-logo="" group-title="Culturales",National Geographic FHD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313135
+#EXTINF:-1 tvg-id="CL - History" tvg-name="History Channel SD (CL*)" tvg-logo="https://img.tvcl.xyz/culturales/history.png" group-title="Culturales",History Channel SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313145
+#EXTINF:-1 tvg-id="CL - History" tvg-name="History Channel FHD (CL*)" tvg-logo="https://img.tvcl.xyz/culturales/history.png" group-title="Culturales",History Channel FHD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313133
+#EXTINF:-1 tvg-id="CO - History HD" tvg-name="History Channel FHD (LAT)" tvg-logo="https://img.tvcl.xyz/culturales/history.png" group-title="Culturales",History Channel FHD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34833
+#EXTINF:-1 tvg-id="" tvg-name="NTN24 SD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/ntn24.png" group-title="Colombia",NTN24 SD (CO)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/304255
+#EXTINF:-1 tvg-id="" tvg-name="RCN FHD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/rcn.png" group-title="Colombia",RCN FHD (CO)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/304257
+#EXTINF:-1 tvg-id="" tvg-name="RCN SD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/rcn.png" group-title="Colombia",RCN SD (CO)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/304258
+#EXTINF:-1 tvg-id="" tvg-name="RCN HD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/rcn.png" group-title="Colombia",RCN HD (CO)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/304259
+#EXTINF:-1 tvg-id="" tvg-name="RCN Telenovelas SD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/rcn.png" group-title="Colombia",RCN Telenovelas SD (CO)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/304262
+#EXTINF:-1 tvg-id="" tvg-name="Caracol FHD (CO)" tvg-logo="https://hidra.live:80/images/04de71dfb76e3e2656a1fba5ce7630d0.png" group-title="Colombia",Caracol FHD (CO)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/304243
+#EXTINF:-1 tvg-id="" tvg-name="Caracol HD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/caracol.png" group-title="Colombia",Caracol HD (CO)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/304245
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional FHD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/caracol.png" group-title="Colombia",Caracol Internacional FHD (CO)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/304247
+#EXTINF:-1 tvg-id="" tvg-name="Caracol SD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/caracol.png" group-title="Colombia",Caracol SD (CO)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/304248
+#EXTINF:-1 tvg-id="" tvg-name="City TV SD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/citytv.png" group-title="Colombia",City TV SD (CO)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/304249
+#EXTINF:-1 tvg-id="" tvg-name="USA: Unimas (kfsf-san francisco-oak-san jose" tvg-logo="" group-title="USA",USA: Unimas (kfsf-san francisco-oak-san jose
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313769
+#EXTINF:-1 tvg-id="" tvg-name="USA: Unimas (wfpa-philadelphia pa)" tvg-logo="" group-title="USA",USA: Unimas (wfpa-philadelphia pa)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313770
+#EXTINF:-1 tvg-id="" tvg-name="USA: Unimas (wxft-chicago" tvg-logo="" group-title="USA",USA: Unimas (wxft-chicago
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313771
+#EXTINF:-1 tvg-id="" tvg-name="USA: Unimas" tvg-logo="" group-title="USA",USA: Unimas
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313772
+#EXTINF:-1 tvg-id="" tvg-name="USA: Univision dallas" tvg-logo="" group-title="USA",USA: Univision dallas
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313789
+#EXTINF:-1 tvg-id="" tvg-name="USA: Univision houston" tvg-logo="" group-title="USA",USA: Univision houston
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313790
+#EXTINF:-1 tvg-id="" tvg-name="USA: Univision los angeles" tvg-logo="" group-title="USA",USA: Univision los angeles
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313791
+#EXTINF:-1 tvg-id="" tvg-name="USA: Univision network" tvg-logo="" group-title="USA",USA: Univision network
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313792
+#EXTINF:-1 tvg-id="" tvg-name="USA: Univision tlnovelas" tvg-logo="" group-title="USA",USA: Univision tlnovelas
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313793
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Televen SD (VE)" tvg-logo="https://img.tvcl.xyz/venezuela/televen.png" group-title="Venezuela",Televen SD (VE)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43561
+#EXTINF:-1 tvg-id="ValuTV.us" tvg-name="Vale TV HD (VE)" tvg-logo="https://img.tvcl.xyz/venezuela/valetv.png" group-title="Venezuela",Vale TV HD (VE)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43562
+#EXTINF:-1 tvg-id="" tvg-name="Venevision HD (VE)" tvg-logo="https://img.tvcl.xyz/venezuela/venevision.png" group-title="Venezuela",Venevision HD (VE)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43563
+#EXTINF:-1 tvg-id="AZClic.mx" tvg-name="AZ Clic FHD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/azclic.png" group-title="Mexico",AZ Clic FHD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43599
+#EXTINF:-1 tvg-id="AZClic.mx" tvg-name="AZ Click SD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/azclic.png" group-title="Mexico",AZ Click SD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43600
+#EXTINF:-1 tvg-id="AZCinema.mx" tvg-name="AZ Cinema FHD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/azcinema.png" group-title="Mexico",AZ Cinema FHD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43601
+#EXTINF:-1 tvg-id="MX - Azteca 7" tvg-name="Azteca 7 FHD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/aztecasiete.png" group-title="Mexico",Azteca 7 FHD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43605
+#EXTINF:-1 tvg-id="MX - FOROtv" tvg-name="Foro TV FHD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/forotv.png" group-title="Mexico",Foro TV FHD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43608
+#EXTINF:-1 tvg-id="INGENIO TV" tvg-name="Ingenio TV SD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/ingeniotv.png" group-title="Mexico",Ingenio TV SD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43612
+#EXTINF:-1 tvg-id="MX - adn40" tvg-name="ADN40 FHD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/adn40.png" group-title="Mexico",ADN40 FHD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43619
+#EXTINF:-1 tvg-id="MX - Canal 5" tvg-name="Canal 5 SD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/canal5.png" group-title="Mexico",Canal 5 SD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/43626
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Azteca 7 HD (MX VIP)" tvg-logo="" group-title="Mexico",Azteca 7 HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302683
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="AZ Corazon HD (MX VIP)" tvg-logo="" group-title="Mexico",AZ Corazon HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302681
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno HD (MX VIP)" tvg-logo="" group-title="Mexico",Azteca Uno HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302682
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno -1Hrs HD (MX VIP)" tvg-logo="" group-title="Mexico",Azteca Uno -1Hrs HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302685
+#EXTINF:-1 tvg-id="" tvg-name="AZ Cinema HD (MX VIP)" tvg-logo="" group-title="Mexico",AZ Cinema HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302615
+#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo HD (MX VIP)" tvg-logo="" group-title="Mexico",AZ Mundo HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302680
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Canal Once HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/mexico/canalonce.png" group-title="Mexico",Canal Once HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/304506
+#EXTINF:-1 tvg-id="" tvg-name="MTY Canal 8 Televisa HD (MX VIP)" tvg-logo="" group-title="Mexico",MTY Canal 8 Televisa HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302688
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="MTY Canal 4 Televisa HD (MX VIP)" tvg-logo="" group-title="Mexico",MTY Canal 4 Televisa HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302687
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="ForoTV HD (MX VIP)" tvg-logo="" group-title="Mexico",ForoTV HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302620
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Canal 5 HD (MX VIP)" tvg-logo="" group-title="Mexico",Canal 5 HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302619
+#EXTINF:-1 tvg-id="" tvg-name="Imagen HD (MX VIP)" tvg-logo="" group-title="Mexico",Imagen HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302675
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="ADN40 HD (MX VIP)" tvg-logo="" group-title="Mexico",ADN40 HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302602
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Milenio TV HD (MX VIP)" tvg-logo="" group-title="Mexico",Milenio TV HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302702
+#EXTINF:-1 tvg-id="" tvg-name="Meganoticias HD (MX VIP)" tvg-logo="" group-title="Mexico",Meganoticias HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313026
+#EXTINF:-1 tvg-id="" tvg-name="Heraldo Televisión HD (MX VIP)" tvg-logo="" group-title="Mexico",Heraldo Televisión HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302671
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Imagen TV HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/mexico/imagentelevision.png" group-title="Mexico",Imagen TV HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302650
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 1 SD" tvg-logo="" group-title="España",ES: La 1 SD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303667
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 1 HD 2MB" tvg-logo="" group-title="España",ES: La 1 HD 2MB
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303668
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 1 FHD" tvg-logo="" group-title="España",ES: La 1 FHD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303669
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 2 SD" tvg-logo="" group-title="España",ES: La 2 SD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303670
+#EXTINF:-1 tvg-id="" tvg-name="ES: La 2 HD 2Mb" tvg-logo="" group-title="España",ES: La 2 HD 2Mb
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303671
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 FHD" tvg-logo="" group-title="España",ES: LA 2 FHD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303672
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 SD" tvg-logo="" group-title="España",ES: Antena 3 SD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303673
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 HD 2Mb" tvg-logo="" group-title="España",ES: Antena 3 HD 2Mb
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303674
+#EXTINF:-1 tvg-id="" tvg-name="ES: Antena 3 FHD" tvg-logo="" group-title="España",ES: Antena 3 FHD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303675
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cuatro SD" tvg-logo="" group-title="España",ES: Cuatro SD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303676
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cuatro HD 2Mb" tvg-logo="" group-title="España",ES: Cuatro HD 2Mb
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303677
+#EXTINF:-1 tvg-id="" tvg-name="ES: Cuatro FHD" tvg-logo="" group-title="España",ES: Cuatro FHD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303678
+#EXTINF:-1 tvg-id="" tvg-name="ES: TeleCinco SD" tvg-logo="" group-title="España",ES: TeleCinco SD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303679
+#EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco HD 2Mb" tvg-logo="" group-title="España",ES: Telecinco HD 2Mb
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303680
+#EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco FHD" tvg-logo="" group-title="España",ES: Telecinco FHD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303681
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta SD" tvg-logo="" group-title="España",ES: La Sexta SD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303682
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta HD 2Mb" tvg-logo="" group-title="España",ES: La Sexta HD 2Mb
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303683
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta FHD" tvg-logo="" group-title="España",ES: La Sexta FHD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303684
+#EXTINF:-1 tvg-id="" tvg-name="ES: Energy SD" tvg-logo="" group-title="España",ES: Energy SD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303686
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMax FHD" tvg-logo="" group-title="España",ES: DMax FHD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303687
+#EXTINF:-1 tvg-id="" tvg-name="ES: Divinity SD" tvg-logo="" group-title="España",ES: Divinity SD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303688
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nova SD" tvg-logo="" group-title="España",ES: Nova SD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303689
+#EXTINF:-1 tvg-id="" tvg-name="ES: Nova FHD" tvg-logo="" group-title="España",ES: Nova FHD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303690
+#EXTINF:-1 tvg-id="" tvg-name="ES: Neox SD" tvg-logo="" group-title="España",ES: Neox SD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303691
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mega SD" tvg-logo="" group-title="España",ES: Mega SD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303693
+#EXTINF:-1 tvg-id="" tvg-name="ES: Mega HD" tvg-logo="" group-title="España",ES: Mega HD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303694
+#EXTINF:-1 tvg-id="" tvg-name="ES: BE Mad HD" tvg-logo="" group-title="España",ES: BE Mad HD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303695
+#EXTINF:-1 tvg-id="" tvg-name="ES: BE Mad FHD" tvg-logo="" group-title="España",ES: BE Mad FHD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303696
+#EXTINF:-1 tvg-id="" tvg-name="ES: A3Series FHD" tvg-logo="" group-title="España",ES: A3Series FHD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303697
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKiss TV " tvg-logo="" group-title="España",ES: DKiss TV 
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303698
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 Horas SD" tvg-logo="" group-title="España",ES: 24 Horas SD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303700
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 Horas FHD" tvg-logo="" group-title="España",ES: 24 Horas FHD
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/303701
+#EXTINF:-1 tvg-id="Tlnovelas.cl" tvg-name="Univision TLNovelas SD (CL*)" tvg-logo="" group-title="Internacionales",Univision TLNovelas SD (CL*)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/313105
+#EXTINF:-1 tvg-id="CL - Canal 9 Bío Bío" tvg-name="24 Horas SD (CL)" tvg-logo="https://img.tvcl.xyz/noticias/24h.png" group-title="Noticias",24 Horas SD (CL)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/35170
+#EXTINF:-1 tvg-id="CL - ESPN" tvg-name="ESPN SD (CL)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN SD (CL)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/157048
+#EXTINF:-1 tvg-id="CL - ESPN" tvg-name="ESPN HD (CL)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN HD (CL)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/123652
+#EXTINF:-1 tvg-id="CL - ESPN 2" tvg-name="ESPN 2 HD (CL)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 2 HD (CL)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/123653
+#EXTINF:-1 tvg-id="CL - ESPN 3" tvg-name="ESPN 3 HD (CL)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 3 HD (CL)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/123654
+#EXTINF:-1 tvg-id="MX - ESPN HD" tvg-name="ESPN SD (MX)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN SD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34652
+#EXTINF:-1 tvg-id="MX - ESPN HD" tvg-name="ESPN FHD (MX)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN FHD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34653
+#EXTINF:-1 tvg-id="MX - ESPN 3" tvg-name="ESPN 3 SD (MX)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 3 SD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34657
+#EXTINF:-1 tvg-id="MX - ESPN 3" tvg-name="ESPN 3 FHD (MX)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 3 FHD (MX)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/34658
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports FHD (ECU)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports FHD (ECU)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/312882
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + FHD (CO)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports + FHD (CO)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/312886
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 HD (LAT)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports 2 HD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/312890
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Fox Sport 3 HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sport 3 HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302698
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Fox Sports 2 HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports 2 HD (MX VIP)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/302653
+#EXTINF:-1 tvg-id="CO - Pasiones" tvg-name="Pasiones SD (LAT)" tvg-logo="https://img.tvcl.xyz/entretencion/pasiones.png" group-title="Entretención",Pasiones SD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/35058
+#EXTINF:-1 tvg-id="CO - Pasiones" tvg-name="Pasiones FHD (LAT)" tvg-logo="https://img.tvcl.xyz/entretencion/pasiones.png" group-title="Entretención",Pasiones FHD (LAT)
+http://dnsplay.xyz:80/bzoftcmp/Q249sCti5h/35060
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S01 E01" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S01 E01
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S01 E02" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S01 E02
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S01 E03" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S01 E03
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S01 E04" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S01 E04
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S01 E05" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S01 E05
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S01 E06" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S01 E06
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E01" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E01
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E02" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E02
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E03" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E03
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E04" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E04
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E05" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E05
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E06" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E06
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E07" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E07
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E08" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E08
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E09" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E09
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E10" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E10
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E11" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E11
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E12" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E12
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E13" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E13
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S02 E14" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S02 E14
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E01" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E01
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260588.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E02" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E02
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260590.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E03" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E03
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260592.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E04" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E04
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260594.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E05" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E05
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260595.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E06" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E06
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260597.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E07" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E07
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260599.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E08" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E08
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260601.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E09" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E09
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260603.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E10" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E10
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260605.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E11" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E11
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260607.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E12" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E12
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260609.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E13" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E13
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260611.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E14" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E14
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260613.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E15" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E15
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260615.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E16" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E16
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260617.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S03 E17" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S03 E17
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260619.avi
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E01" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E01
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E02" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E02
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E03" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E03
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E04" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E04
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E05" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E05
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E06" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E06
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E07" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E07
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E08" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E08
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E09" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E09
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E10" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E10
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E11" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E11
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E12" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E12
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E13" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E13
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E14" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E14
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E15" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E15
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E16" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E16
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E17" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E17
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E18" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E18
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E19" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E19
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Comedia Drake & Josh S04 E20" tvg-logo="http://titanlivetv.com:8080/images/2300f9ba076cf272c75c708ba6b92403.jpg" group-title="",Comedia Drake & Josh S04 E20
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drama Estoy Vivo S01 E01" tvg-logo="http://titanlivetv.com:8080/images/c2e4c09ca790cf701d5830cb63afe807.jpg" group-title="",Drama Estoy Vivo S01 E01
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drama Estoy Vivo S01 E02" tvg-logo="http://titanlivetv.com:8080/images/c2e4c09ca790cf701d5830cb63afe807.jpg" group-title="",Drama Estoy Vivo S01 E02
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260602.avi
+#EXTINF:-1 tvg-id="" tvg-name="Drama Estoy Vivo S01 E03" tvg-logo="http://titanlivetv.com:8080/images/c2e4c09ca790cf701d5830cb63afe807.jpg" group-title="",Drama Estoy Vivo S01 E03
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260604.avi
+#EXTINF:-1 tvg-id="" tvg-name="Drama Estoy Vivo S01 E04" tvg-logo="http://titanlivetv.com:8080/images/c2e4c09ca790cf701d5830cb63afe807.jpg" group-title="",Drama Estoy Vivo S01 E04
+http://dnsplay.xyz:80/series/bzoftcmp/Q249sCti5h/260610.avi
